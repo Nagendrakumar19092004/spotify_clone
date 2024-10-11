@@ -1,0 +1,134 @@
+body{
+    background-color: rgba(20, 20, 20, 0.866);  
+}
+header{
+    position: fixed;
+}
+#heading{
+    
+    height: 65px;
+    width: 1500px;
+    background-color: rgba(0, 0, 0, 0.216);
+    border-radius: 10px;
+    position: absolute;
+}
+#headbar{
+    border: 0.5px solid white;
+    margin-top: -55px ;
+    height: 55px;
+    width: 600px;
+    border-radius: 50px;
+    background-color: black);
+    justify-items: center;    
+}
+#line1{
+    padding: 80px;
+    top: 20px;
+    color: rgb(245, 245, 220);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    vertical-align:middle;
+}
+#home#headbarclose{
+    vertical-align:bottom;
+}
+.logo{   
+   vertical-align: bottom;
+    display:inline-block;
+    border-radius: 50px;   
+}
+#signup{  
+    font-size:30px;
+    left: 1000px;
+}
+
+#loginbutton{
+    color: black;
+    background-color: white;
+    float: right;
+    height: 50px;
+    width: 130px;
+    border-radius: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+
+}
+#signupbutton{
+    color: rgb(244, 240, 240);
+    background-color: rgba(73, 71, 69, 0.216);
+    float: right;
+    height: 50px;
+    width: 130px;
+    border: 0cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    margin: 9px;
+}
+#lowerheading{
+    background-color:black;
+    width: 350px;
+    height:600px;
+    border-radius: 20px;
+}
+#left1{
+    background-color: rgba(99, 93, 93, 0.216);
+    border-radius: 5px;
+    color: white;
+}
+#left2{
+    background-color: rgba(99, 93, 93, 0.216);
+    border-radius: 5px;
+    height: 150px;
+    color: white;
+}
+#left3{
+    background-color: rgba(99, 93, 93, 0.216);
+    border-radius: 5px;
+    height: 150px;
+    color: white;
+}
+#button1{
+    font-size: 25px;
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+}
+#button2{
+    font-size: 25px;
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+}
+#hed6{
+    color: white;
+}
+#divbody{
+    
+    background-color: rgba(20, 20, 20, 0.866);
+    width: 1100px;
+    height: 1150px;
+    border-radius: 10px;
+   margin: 60px;
+   margin-left: 380px;
+}
+#plate1{
+    border-radius: 5px;
+    width: 1100px;
+}
+#plate2{
+    border-radius: 5px;
+    width: 1100px;
+}
+#plate3{
+    border-radius: 5px;
+    width: 1100px;
+}
+#plate4{
+    border-radius: 5px;
+    width: 1100px;
+}
+
+
+
